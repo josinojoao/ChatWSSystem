@@ -100,6 +100,5 @@ public class Teste {
 			}
 			
 			System.out.println("\nAqui\n"+t.getMsg("Lucas", "1234", 0));
-			System.out.println("Teste de push.");
 		}
 	}
